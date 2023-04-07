@@ -2,7 +2,7 @@
 
 ### About me
 
-I'm a French seasoned Full-stack Software Engineer (previously Lead at [@LaBelleAssiette](https://github.com/LaBelleAssiette)), currently working as a freelance. I work with companies to build great products with polished UX and a great sense of detail.
+I'm a French seasoned Full-stack Software Engineer, now Senior Engineer at [@A-World-For-US](https://github.com/A-World-For-Us), previously Lead at [@LaBelleAssiette](https://github.com/LaBelleAssiette).
 
 Want to chat with me ? Shoot me an email!
 
